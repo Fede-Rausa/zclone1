@@ -1,2 +1,16 @@
 
+
+title: un nuovo inizio
 remote_theme: https://github.com/Fede-Rausa/zendesk_clone0@main
+
+
+search_enabled: true
+auto_page_title: true
+
+sidebar:
+  - p2
+  - label: pag3
+    children:
+      - p2
+      - p2
+  - p2
